@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Action Bar!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="add_event_id">Enter Event Id:</string>
+    <string name="add_event_name">Enter Event Name:</string>
+    <string name="add_event_info">Enter Event Info:</string>
+    <string name="add_event_date">Enter Event Date(YYYY-MM-DD)</string>
+    <string name="add_event_venue">Enter Event Venue</string>
+    <string name="add_event_city">Enter Event City</string>
+    <string name="action_add">Add</string>
+
+</resources>
