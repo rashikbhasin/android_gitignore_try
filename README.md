@@ -1,0 +1,1 @@
+# android_gitignore_try
